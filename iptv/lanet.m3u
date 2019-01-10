@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:0, 1+1
+http://play.lanet.tv/live/9002.m3u8
+
+#EXTINF:0, 112
+http://play.lanet.tv/live/9053.m3u8
+
+#EXTINF:0, ТЕТ
+http://play.lanet.tv/live/9010.m3u8
+
+#EXTINF:0, 5 канал
+http://play.lanet.tv/live/9014.m3u8
+
+#EXTINF:0, 2+2
+http://play.lanet.tv/live/9016.m3u8
+
+#EXTINF:0, ПлюсПлюс
+http://play.lanet.tv/live/9017.m3u8
+
+#EXTINF:0, Рада
+http://play.lanet.tv/live/9018.m3u8
+
+#EXTINF:0, Телеканал новостей 24
+http://play.lanet.tv/live/9035.m3u8
+
+#EXTINF:0, Бигуди
+http://play.lanet.tv/live/9047.m3u8
+
+#EXTINF:0, ZIK
+http://play.lanet.tv/live/9050.m3u8
+
+#EXTINF:0, Еспресо TV
+http://play.lanet.tv/live/9060.m3u8
+
+#EXTINF:0, Громадське-TB
+http://play.lanet.tv/live/1001.m3u8
+
+#EXTINF:0, 3S
+http://play.lanet.tv/live/9086.m3u8
+
+#EXTINF:0, Еспресо HD
+http://play.lanet.tv/live/1002.m3u8
+

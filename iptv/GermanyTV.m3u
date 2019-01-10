@@ -1,0 +1,84 @@
+
+#EXTM3U
+#EXTINF:0,Alex berlin
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:0,Baden TV
+rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp
+#EXTINF:0,BLK online TV Burgenlandkreis
+rtmp://62.113.210.250/medienasa-live/BLKonline_high
+#EXTINF:0,Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:0,Elbekanal Schönebeck
+rtmp://62.113.210.250/medienasa-live/elbe_high
+#EXTINF:0,FamilyTV
+rtmp://83.169.58.36/live/Stream3
+#EXTINF:0,Filstalwelle
+rtmp://62.113.210.27/filstalwelle-live/livestream
+#EXTINF:0,Halle TV
+rtmp://62.113.210.250/medienasa-live/tvhalle_high
+#EXTINF:0,Juwelo TV
+rtmp://85.214.107.68/juwelo_hd/live_DE1
+#EXTINF:0,Leipzig Fernsehen LF
+rtmp://video61.kanal8.de/leipzigfernsehenlive/myStream.sdp
+#EXTINF:0,Light Channel TV Deutschland
+rtsp://streamer1.streamhost.org:1935/salive/lctvde
+#EXTINF:0,LT - TV Baden Wuerttemberg
+rtmp://62.113.210.105/ltv-live/livestream
+#EXTINF:0,NOA4 Hamburg
+mms://wt-wm1.wtnet.de/noa4hh-stream-mid?.wma
+#EXTINF:0,noa4 Hamburg
+http://wt-wm1.wtnet.de/noa4hh-stream-hi?MSWMExt=.asf
+#EXTINF:0,noa4 Norderstedt
+http://wt-wm1.wtnet.de/noa4-stream-hi?MSWMExt=.asf
+#EXTINF:0,OK Dessau
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
+#EXTINF:0,OK Magdeburg
+rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
+#EXTINF:0,OK Merseburg
+rtmp://62.113.210.250/medienasa-live/ok-merseburg_high
+#EXTINF:0,OK Salzwedel
+rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
+#EXTINF:0,OK Stendal
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+#EXTINF:0,OK tv
+http://www.canlitv.com/asx.php?id=10942
+#EXTINF:0,OK tv
+http://217.151.151.58/oktv
+#EXTINF:0,OK Wernigerode
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:0,OK Wettin
+rtmp://62.113.210.250/medienasa-live/ok-wettin_high
+#EXTINF:0,Oldenburg Eins TV
+rtmp://streaming.orgatech.de/o1/oeins
+#EXTINF:0,Punktum Südharz
+rtmp://62.113.210.250/medienasa-live/punktum_high
+#EXTINF:0,Ran 1
+rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
+#EXTINF:0,RAN 1 Dessau
+rtmp://62.113.210.250/medienasa-live/ran1_high
+#EXTINF:0,RBW
+rtmp://62.113.210.250/medienasa-live/rbw_high
+#EXTINF:0,RFH TV
+rtmp://62.113.210.250/medienasa-live/RFH_high
+#EXTINF:0,RIC TV
+rtmp://83.169.58.36/live/sdf:3fb1c9c9-09c8-404a-8c0f-56b27617ab89
+#EXTINF:0,SDF = Mein Fernsehen in Südtirol
+http://videocdn.sdf.bz.it/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,Shop 24 Direct
+rtmp://streamserver.smartcast.de/stapa1i/stapa1i.stream
+#EXTINF:0,Streetclip TV
+rtmp://stream.streetclip.tv:1935/live/high-stream
+#EXTINF:0,Super RTL
+http://5.135.135.200/live/_definst_/superrtl.stream/playlist.m3u8
+#EXTINF:0,TRP 1
+rtsp://stream2.telvi.de:1935/trp1live/livestream1
+#EXTINF:0,TV Südbaden
+rtmp://62.113.210.102/funkhaus-live/livestream
+#EXTINF:0,VISIT-X TV
+rtmp://194.116.150.47/live/visitx.stream1
+#EXTINF:0,Vox
+http://5.135.128.116/live/_definst_/vox.stream/playlist.m3u8
+#EXTINF:0,WMZ TV Lauchhammer
+mms://85.239.121.220:1108
+#EXTINF:0,WMZ TV Oderland
+mms://85.233.48.26:1108

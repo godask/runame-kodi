@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Life (Full HD 1080p) http://podkola.net/russian-tv/lifenews.html
+http://tv.life.ru/lifetv/1080p/index.m3u8
+#EXTINF:-1,Life (HD 720p) http://podkola.net/russian-tv/lifenews.html
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1,Life (480p) http://podkola.net/russian-tv/lifenews.html
+http://tv.life.ru/lifetv/480p/index.m3u8
+#EXTINF:-1,Life (360p) http://podkola.net/russian-tv/lifenews.html
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:-1,Life (240p) http://podkola.net/russian-tv/lifenews.html
+http://tv.life.ru/lifetv/240p/index.m3u8
+#EXTINF:-1,Life (Auto) http://podkola.net/russian-tv/lifenews.html
+http://tv.life.ru/index.m3u8

@@ -1,0 +1,1412 @@
+
+#EXTM3U
+#EXTINF:-1,1+1
+http://kim.freeslynet.online:8781
+#EXTINF:-1,1+1
+http://vt.freeslynet.online/ch/4knemp/nqix
+#EXTINF:-1,112
+http://kim.freeslynet.online:8806
+#EXTINF:-1,112 UA
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1,112 Украина
+http://vt.freeslynet.online/ch/4knemp/5e8m
+#EXTINF:-1,12 Канал (Омск)
+http://cdn-01.bonus-tv.ru:9090/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/LG-1469442137/eol/20200101T0000/hash/510de4d7c8db563c9e1f7bbe232311dd6f9fa531/playlist.m3u8
+#EXTINF:-1,12 канал (Красноярск)
+http://multi.freeslynet.online:80/udp/239.255.1.7:1234
+#EXTINF:-1,1HD
+http://80.250.191.10:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
+#EXTINF:-1,2+2
+http://vt.freeslynet.online/ch/4knemp/sdpn
+#EXTINF:-1,24 Doc
+http://vt.freeslynet.online/ch/4knemp/bywp
+#EXTINF:-1,2x2
+http://vt.freeslynet.online/ch/4knemp/4v8q
+#EXTINF:-1,34 Канал
+http://vt.freeslynet.online/ch/4knemp/zb18
+#EXTINF:-1,365
+http://vt.freeslynet.online/ch/4knemp/dg73
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,49 канал
+http://hlstv.nsk.211.ru/239.211.211.28/stream.m3u8
+#EXTINF:-1,5 канал Украина
+http://vt.freeslynet.online/ch/4knemp/79n0
+#EXTINF:-1,8 Канал (Красноярск)
+http://multi.freeslynet.online:80/udp/239.255.1.22:1234
+#EXTINF:-1,8 Канал (Новосибирск)
+http://kuz.freeslynet.online/239.211.211.77/stream.m3u8
+#EXTINF:-1,9 Волна
+http://cdn-03.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
+#EXTINF:-1,A One UA
+http://vt.freeslynet.online/ch/4knemp/ritn
+#EXTINF:-1,AMC[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,AMEDIA Hit HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,AMEDIA PREMIUM HD [PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ANI
+http://kuz.freeslynet.online/239.211.211.98/stream.m3u8
+#EXTINF:-1,ATR
+http://vt.freeslynet.online/ch/4knemp/wu15
+#EXTINF:-1,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,Amazing
+http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+#EXTINF:-1,Amedia 1
+http://vt.freeslynet.online/ch/4knemp/v0qe
+#EXTINF:-1,Amedia 1 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Amedia 2
+http://vt.freeslynet.online/ch/4knemp/s6jk
+#EXTINF:-1,Amedia 2
+http://193.23.58.156:4025/udp/234.1.20.32:1234
+#EXTINF:-1,Animal Family HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Animal Planet
+http://149.255.152.110/animalplanet/index.m3u8
+#EXTINF:-1,Animal Planet
+http://vt.freeslynet.online/ch/4knemp/f1pm
+#EXTINF:-1,Animal Planet HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,BabyTV
+http://77.120.118.233:8000/4
+#EXTINF:-1,Bein Sport[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Bloomberg
+http://vt.freeslynet.online/ch/4knemp/iij8
+#EXTINF:-1,Bollywood HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Boomerang
+http://77.120.118.233:8000/6
+#EXTINF:-1,Bridge
+rtmp://217.10.32.43:80/bridgetv//stream
+#EXTINF:-1,Bridge TV
+http://vt.freeslynet.online/ch/4knemp/mh5p
+#EXTINF:-1,Business
+http://vt.freeslynet.online/ch/4knemp/au8k
+#EXTINF:-1,CBC AZ
+http://149.255.152.110/cbcaz/index.m3u8
+#EXTINF:-1,CBC Sport(Az)
+http://149.255.152.110/cbcsport/index.m3u8
+#EXTINF:-1,CBS Reality
+http://185.32.47.226:4022/free/86
+#EXTINF:-1,CLASSICS HD
+rtmp://91.201.78.3:1935/live/classicshd
+#EXTINF:-1,CNN International
+http://149.255.152.110/cnn/index.m3u8
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,Cartoon Network
+http://vt.freeslynet.online/ch/4knemp/akrc
+#EXTINF:-1,Cartoon Network
+http://149.255.152.110/cartoon/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://vs7.cdn.ott.otautv.kz:80/dtv/id33_KTR_SG--CartoonNetwork/03/plst.m3u8
+#EXTINF:-1,Clubbing TV
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8
+#EXTINF:-1,DANCE HD
+rtmp://91.201.78.3:1935/live/dancehd
+#EXTINF:-1,DOT DANCE
+http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
+#EXTINF:-1,DTX
+http://185.32.47.226:4022/free/83
+#EXTINF:-1,DTX HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,DW TV
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://149.255.152.110/davinci/index.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://vt.freeslynet.online/ch/4knemp/n7ek
+#EXTINF:-1,DaVinci
+http://77.120.118.233:8000/3
+#EXTINF:-1,Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+#EXTINF:-1,Discovery
+http://vt.freeslynet.online/ch/4knemp/w5rb
+#EXTINF:-1,Discovery
+http://149.255.152.110/discovery/index.m3u8
+#EXTINF:-1,Discovery
+http://vs7.cdn.ott.otautv.kz:80/dtv/id50_KTR_SG--DiscoveryChannel/03/plst.m3u8
+#EXTINF:-1,Discovery
+http://193.23.58.156:4025/udp/234.1.20.18:1234
+#EXTINF:-1,Discovery Channel HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Discovery DTX
+http://vt.freeslynet.online/ch/4knemp/m16k
+#EXTINF:-1,Discovery Science
+http://vt.freeslynet.online/ch/4knemp/w50d
+#EXTINF:-1,Discovery Science
+http://149.255.152.110/discoverysci/index.m3u8
+#EXTINF:-1,Discovery Science HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Discovery Showcase Europe HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Disney
+http://vt.freeslynet.online/ch/4knemp/gsx9
+#EXTINF:-1,Enter Фильм
+http://vt.freeslynet.online/ch/4knemp/eerl
+#EXTINF:-1,Epoque
+http://193.23.58.156:4025/udp/234.1.20.2:1234
+#EXTINF:-1,Eureka HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Euronews
+http://149.255.152.110/euronews/index.m3u8
+#EXTINF:-1,Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
+#EXTINF:-1,Euronews UA
+http://vt.freeslynet.online/ch/4knemp/zg6h
+#EXTINF:-1,Euronews UA
+http://vt.freeslynet.online/ch/4knemp/r5eb
+#EXTINF:-1,Europa Plus
+http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
+#EXTINF:-1,Europa Plus TV
+http://vt.freeslynet.online/ch/4knemp/ib6k
+#EXTINF:-1,Eurosport
+http://vt.freeslynet.online/ch/4knemp/fkkj
+#EXTINF:-1,Eurosport 1
+http://193.23.58.156:4025/udp/234.1.20.19:1234
+#EXTINF:-1,Eurosport 1
+http://149.255.152.110/eurosport1/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://vs7.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8
+#EXTINF:-1,Eurosport 1 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Eurosport 2
+http://vt.freeslynet.online/ch/4knemp/8k82
+#EXTINF:-1,Eurosport 2 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Extreme Sports
+http://vt.freeslynet.online/ch/4knemp/7kxc
+#EXTINF:-1,FOX
+http://vt.freeslynet.online/ch/4knemp/wsf8
+#EXTINF:-1,FOX HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,FOX Life HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,FOX Sports2 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Fine Living
+http://vt.freeslynet.online/ch/4knemp/wegc
+#EXTINF:-1,Food Network[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,For Music
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/playlist.m3u8
+#EXTINF:-1,Fox
+http://vs7.cdn.ott.otautv.kz:80/dtv/id108_KTR_SG--Fox/03/plst.m3u8
+#EXTINF:-1,Fox Life
+http://vt.freeslynet.online/ch/4knemp/2azx
+#EXTINF:-1,France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
+#EXTINF:-1,France 24
+http://193.23.58.156:4025/udp/234.1.20.20:1234
+#EXTINF:-1,Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1,Gamanoid HD
+http://vsd4.mycdn.me/hls/104149945029_high/index.m3u8
+#EXTINF:-1,Gameshow
+http://vsd4.mycdn.me/hls/103402834522_high/index.m3u8
+#EXTINF:-1,Gameshow
+http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+#EXTINF:-1,Ginger HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Global Star
+rtmp://stream.globalstar.tv/live/gs
+#EXTINF:-1,Gulli
+http://vt.freeslynet.online/ch/4knemp/ivz3
+#EXTINF:-1,Gulli
+http://77.120.118.233:8000/9
+#EXTINF:-1,Gulli
+http://193.23.58.156:4025/udp/234.1.20.47:1234
+#EXTINF:-1,HD Extreme
+http://vsd4.mycdn.me/hls/109268437646_high/index.m3u8
+#EXTINF:-1,HD LIFE[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,HD Media
+http://62.76.26.81:8081/hdmedia/hdmedia_sd/playlist.m3u8
+#EXTINF:-1,HD Media
+http://vsd4.mycdn.me/hls/116870482444_high/index.m3u8
+#EXTINF:-1,HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:-1,HD Music
+http://vsd4.mycdn.me/hls/109268699790_high/index.m3u8
+#EXTINF:-1,HD Travel
+http://vsd4.mycdn.me/hls/109268568718_high/index.m3u8
+#EXTINF:-1,HISTORY HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,HITV
+http://live.rmg.cdnvideo.ru/rmg/rmg1.sdp/playlist.m3u8
+#EXTINF:-1,HardLife
+rtmp://stream2.hardlife.tv/live/hl
+#EXTINF:-1,Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,Heavy Metal Television
+http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:-1,History
+http://vt.freeslynet.online/ch/4knemp/enws
+#EXTINF:-1,Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:-1,ICTV
+http://kim.freeslynet.online:8783
+#EXTINF:-1,ICTV
+http://vt.freeslynet.online/ch/4knemp/xpp8
+#EXTINF:-1,ID Fashion HD
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:-1,ID xtra
+http://vt.freeslynet.online/ch/4knemp/rowj
+#EXTINF:-1,Insight HD
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:-1,Inva Media
+http://cdn-04.bonus-tv.ru/btv/invatv/type/user/devname/LG-SmartTV/devid/LG-1443615282/eol/20200101T000000/hash/10bb259a80d9c7546a14972f47fee8536ba24ea2/playlist.m3u8
+#EXTINF:-1,IНТЕР
+http://kim.freeslynet.online:8788
+#EXTINF:-1,Iнтер
+http://vt.freeslynet.online/ch/4knemp/za9j
+#EXTINF:-1,JAZZ HD
+rtmp://91.201.78.3:1935/live/jazzhd
+#EXTINF:-1,JimJam
+http://vt.freeslynet.online/ch/4knemp/l10u
+#EXTINF:-1,JimJam
+http://77.120.118.233:8000/7
+#EXTINF:-1,JuCeTV HD
+http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
+#EXTINF:-1,KATV 1
+http://149.255.152.110/ktv1/index.m3u8
+#EXTINF:-1,LALE
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,LIFE
+http://cdn-01.bonus-tv.ru/btv/lifenews/type/user/devname/LG-SmartTV/devid/LG-1433367804/eol/20200101T000000/hash/963ba2b65d79e4bd01c0ba00930d1b5a09379d09/playlist.m3u8
+#EXTINF:-1,LIFE
+http://vsd4.mycdn.me/hls/53595409118_high/index.m3u8
+#EXTINF:-1,LIFE (480p)
+http://tv.life.ru:80/lifetv/480p/index.m3u8
+#EXTINF:-1,LIFE (720p)
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1,LIFE78
+http://cdn-03.bonus-tv.ru/btv/life78/type/user/devname/LG-SmartTV/devid/LG-1466700070/eol/20200101T0000/hash/8efbe6fc0e06cb447c62e902030f2424da0c24ca/playlist.m3u8
+#EXTINF:-1,LIFE78 (480p)
+http://tv78.life.ru/lifetv/480p/index.m3u8
+#EXTINF:-1,LIFE78 (720p)
+http://tv78.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1,LIVE HD
+rtmp://91.201.78.3:1935/live/onehdhd
+#EXTINF:-1,Lale
+http://kim.freeslynet.online:8804
+#EXTINF:-1,Lale
+http://vt.freeslynet.online/ch/4knemp/ks0d
+#EXTINF:-1,Life
+http://193.23.58.156:4025/udp/234.1.10.23:1234
+#EXTINF:-1,Life news
+http://vt.freeslynet.online/ch/4knemp/wztd
+#EXTINF:-1,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,MGM HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,MOTORS TV[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,MTV
+http://vt.freeslynet.online/ch/4knemp/436m
+#EXTINF:-1,MTV AM HD
+http://94.125.187.18/hlsam/hd/playlist.m3u8
+#EXTINF:-1,MTV Dance
+http://193.23.58.156:4025/udp/234.1.20.37:1234
+#EXTINF:-1,MTV Dance
+http://vt.freeslynet.online/ch/4knemp/xv3m
+#EXTINF:-1,MTV Hits
+http://149.255.152.110/mtvhits/index.m3u8
+#EXTINF:-1,MTV Hits
+http://193.23.58.156:4025/udp/234.1.20.36:1234
+#EXTINF:-1,MTV Live HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,MTV Rocks
+http://193.23.58.156:4025/udp/234.1.20.38:1234
+#EXTINF:-1,MTV Rocks
+http://vt.freeslynet.online/ch/4knemp/ifgw
+#EXTINF:-1,Maxxi TV
+http://vt.freeslynet.online/ch/4knemp/abwb
+#EXTINF:-1,Mcm top
+http://149.255.152.110/mcmtop/index.m3u8
+#EXTINF:-1,Mezzo
+http://193.23.58.156:4025/udp/234.1.20.48:1234
+#EXTINF:-1,Mezzo Live HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Milady
+http://vt.freeslynet.online/ch/4knemp/vupm
+#EXTINF:-1,Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
+#EXTINF:-1,Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,MusicBoxUA
+http://vt.freeslynet.online/ch/4knemp/9pvu
+#EXTINF:-1,Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:-1,NBA HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,NEWS ONE
+http://kim.freeslynet.online:8801
+#EXTINF:-1,NHK World
+http://vt.freeslynet.online/ch/4knemp/3xn5
+#EXTINF:-1,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1,NRJ TV
+rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
+#EXTINF:-1,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,Nat Geo
+http://vs7.cdn.ott.otautv.kz:80/dtv/id106_KTR_SG--NationalGeographic/03/plst.m3u8
+#EXTINF:-1,Nat Geo
+http://vt.freeslynet.online/ch/4knemp/7kqq
+#EXTINF:-1,Nat Geo Wild
+http://vs7.cdn.ott.otautv.kz:80/dtv/id77_KTR_SG--NatGeoWild/03/plst.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://vt.freeslynet.online/ch/4knemp/m01c
+#EXTINF:-1,Nat Geo Wild
+http://149.255.152.110/natgeowild/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,National Geographic HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1,News 24
+http://vt.freeslynet.online/ch/4knemp/tvah
+#EXTINF:-1,News 24
+http://kim.freeslynet.online:8786
+#EXTINF:-1,News 24 HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2600000.m3u8
+#EXTINF:-1,News Network
+http://vt.freeslynet.online/ch/4knemp/dzds
+#EXTINF:-1,News One
+http://vt.freeslynet.online/ch/4knemp/zua8
+#EXTINF:-1,News one HD
+http://77.120.104.64/hls/newsone-hd/stream.m3u8
+#EXTINF:-1,Nick Jr
+http://77.120.118.233:8000/8
+#EXTINF:-1,Nick Jr.
+http://vt.freeslynet.online/ch/4knemp/xvtx
+#EXTINF:-1,Nick jr
+http://193.23.58.156:4025/udp/234.1.20.33:1234
+#EXTINF:-1,Nickelodeon
+http://193.23.58.156:4025/udp/234.1.20.7:1234
+#EXTINF:-1,Nickelodeon
+http://77.120.118.233:8000/2
+#EXTINF:-1,Nickelodeon
+http://vt.freeslynet.online/ch/4knemp/61xy
+#EXTINF:-1,Nickelodeon
+http://vs7.cdn.ott.otautv.kz:80/dtv/id104_KTR_SG--Nickelodeon/03/plst.m3u8
+#EXTINF:-1,Nickelodeon HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,OTV Music
+http://vt.freeslynet.online/ch/4knemp/4ghi
+#EXTINF:-1,Ocean TV
+http://vt.freeslynet.online/ch/4knemp/nul9
+#EXTINF:-1,OneBY
+http://rtmp.one.by:1200
+#EXTINF:-1,OneBY HD
+http://rtmp.one.by:1300
+#EXTINF:-1,OneBY UHD
+http://rtmp.one.by:1400
+#EXTINF:-1,OneRUS
+http://rtmp.one.by:2200
+#EXTINF:-1,OneRUS HD
+http://rtmp.one.by:2300
+#EXTINF:-1,Outdoor
+http://vt.freeslynet.online/ch/4knemp/ro78
+#EXTINF:-1,Outdoor channel HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,POP HD
+rtmp://91.201.78.3:1935/live/pophd
+#EXTINF:-1,Paramount Channel HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Paramount Comedy
+http://vt.freeslynet.online/ch/4knemp/839y
+#EXTINF:-1,Paramount Comedy HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Pro Все
+http://vt.freeslynet.online/ch/4knemp/uf3y
+#EXTINF:-1,QTV
+http://kim.freeslynet.online:8797
+#EXTINF:-1,QTV
+http://vt.freeslynet.online/ch/4knemp/72b2
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1,ROCK HD
+rtmp://91.201.78.3:1935/live/rockhd
+#EXTINF:-1,RT Doc
+http://cdn-01.bonus-tv.ru:9090/btv/rtdoc/type/user/devname/LG-SmartTV/devid/LG-1469191659/eol/20200101T00/hash/ffea5a73940afa146f5411783313f1e76ae71a46/playlist.m3u8
+#EXTINF:-1,RT HD
+http://cdn-01.bonus-tv.ru:9090/btv/rttv/type/user/devname/LG-SmartTV/devid/LG-1469118640/eol/20200101T0000/hash/d962836f9b6019fd17a5200dac1973a97044ead2/playlist.m3u8
+#EXTINF:-1,RTG
+http://193.23.58.156:4025/udp/234.1.20.23:1234
+#EXTINF:-1,RTG
+http://vt.freeslynet.online/ch/4knemp/pryx
+#EXTINF:-1,RTI
+http://vt.freeslynet.online/ch/4knemp/727w
+#EXTINF:-1,RTI HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,RTR Planeta
+http://vt.freeslynet.online/ch/4knemp/qahj
+#EXTINF:-1,RU TV
+http://149.255.152.110/rutv/index.m3u8
+#EXTINF:-1,RU TV
+http://live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8
+#EXTINF:-1,RU TV Moldova
+http://217.12.116.122/hls/rutv_direct.m3u8
+#EXTINF:-1,Rusong TV
+http://vt.freeslynet.online/ch/4knemp/iihy
+#EXTINF:-1,Russian Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
+#EXTINF:-1,STV
+http://193.23.58.156:4025/udp/234.1.10.46:1234
+#EXTINF:-1,STV
+http://vt.freeslynet.online/ch/4knemp/bb9s
+#EXTINF:-1,Setanta Sports HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Setanta Sports+ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Shop24
+http://cdn-01.bonus-tv.ru:9090/btv/shop24/type/user/devname/LG-SmartTV/devid/LG-1469118559/eol/20200101T0000/hash/a67518809a79a474301d2e65bda7105644de90c7/playlist.m3u8
+#EXTINF:-1,Shopping Live
+http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
+#EXTINF:-1,Shopping TV
+http://vt.freeslynet.online/ch/4knemp/1dh0
+#EXTINF:-1,Shopping live
+http://vt.freeslynet.online/ch/4knemp/7s9n
+#EXTINF:-1,Sky Sports F1[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Sony ET HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
+#EXTINF:-1,TLC
+http://vt.freeslynet.online/ch/4knemp/dtu2
+#EXTINF:-1,TLC
+http://multi.freeslynet.online:80/udp/239.255.1.27:1234
+#EXTINF:-1,TLC
+http://149.255.152.110/tlc/index.m3u8
+#EXTINF:-1,TLC HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,TV 1000
+http://193.23.58.156:4025/udp/234.1.20.15:1234
+#EXTINF:-1,TV 1000 Comedy HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,TV 1000 Megahit HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,TV 1000 Premium HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,TV1000
+http://vt.freeslynet.online/ch/4knemp/tde3
+#EXTINF:-1,TV1000
+http://149.255.152.110/tv1000east/index.m3u8
+#EXTINF:-1,TV1000
+http://vs7.cdn.ott.otautv.kz:80/dtv/id48_KTR_SG--TV1000/03/plst.m3u8
+#EXTINF:-1,TV1000 Action
+http://vt.freeslynet.online/ch/4knemp/9x0y
+#EXTINF:-1,TV1000 Action
+http://193.23.58.156:4025/udp/234.1.20.14:1234
+#EXTINF:-1,TV1000 Action
+http://vs7.cdn.ott.otautv.kz:80/dtv/id49_KTR_SG--TV1000Action/03/plst.m3u8
+#EXTINF:-1,TV1000 Русское Кино
+http://vt.freeslynet.online/ch/4knemp/dokq
+#EXTINF:-1,TV1000 Русское кино
+http://vs7.cdn.ott.otautv.kz:80/dtv/id70_KTR_SG--TV1000Rus/03/plst.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://193.23.58.156:4025/udp/234.1.20.13:1234
+#EXTINF:-1,TV5 MONDE
+https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
+#EXTINF:-1,TVM Channel
+http://cdn-01.bonus-tv.ru:9090/tvm/tvm/type/none/eol/20200101T0000/hash/9ee236eb709eaaba97b5722f1eedae4af79377c7/playlist.m3u8
+#EXTINF:-1,TVXXI
+http://vt.freeslynet.online/ch/4knemp/5ek7
+#EXTINF:-1,Teletravel HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,TiJi
+http://vt.freeslynet.online/ch/4knemp/nstb
+#EXTINF:-1,TiJi
+http://77.120.118.233:8000/10
+#EXTINF:-1,Tonis
+http://vt.freeslynet.online/ch/4knemp/ewiq
+#EXTINF:-1,TopShop
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:-1,Travel
+http://vt.freeslynet.online/ch/4knemp/lq36
+#EXTINF:-1,Travel channel HD [PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,UBR
+http://vt.freeslynet.online/ch/4knemp/gpi1
+#EXTINF:-1,VH1 Classic
+http://193.23.58.156:4025/udp/234.1.20.35:1234
+#EXTINF:-1,VIASAT EXPLORE HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,VIASAT SPORT HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Viasat Explore
+http://193.23.58.156:4025/udp/234.1.20.9:1234
+#EXTINF:-1,Viasat Explore
+http://vt.freeslynet.online/ch/4knemp/i23h
+#EXTINF:-1,Viasat History
+http://vt.freeslynet.online/ch/4knemp/kfhs
+#EXTINF:-1,Viasat History
+http://193.23.58.156:4025/udp/234.1.20.10:1234
+#EXTINF:-1,Viasat History
+http://vs7.cdn.ott.otautv.kz:80/dtv/id51_KTR_SG--ViasatHistory/03/plst.m3u8
+#EXTINF:-1,Viasat Hockey[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Viasat Nature
+http://vt.freeslynet.online/ch/4knemp/dnqu
+#EXTINF:-1,Viasat Nature
+http://193.23.58.156:4025/udp/234.1.20.12:1234
+#EXTINF:-1,Viasat Nature/History HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Viasat Sport
+http://vs8.cdn.ott.otautv.kz:80/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8
+#EXTINF:-1,Viasat Sport
+http://193.23.58.156:4025/udp/234.1.20.11:1234
+#EXTINF:-1,Viasat Sport Baltic[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Viasat football HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Virgin Radio TV
+http://fms.105.net:1935/live/virgin1/index.m3u8
+#EXTINF:-1,WBC
+http://kuz.freeslynet.online/239.211.211.94/stream.m3u8
+#EXTINF:-1,WBC HD
+http://cdn-03.bonus-tv.ru/btv/wbc/type/user/devname/LG-SmartTV/devid/LG-1443193138/eol/20200101T000000/hash/82b80acb7e43f78456d3029a3a23e9c086b2e018/playlist.m3u8
+#EXTINF:-1,WBC/ИнКС
+http://kuz.freeslynet.online/239.211.4.11/stream.m3u8
+#EXTINF:-1,World Fashion
+http://cdn-01.bonus-tv.ru:9090/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+#EXTINF:-1,World Fashion
+http://vt.freeslynet.online/ch/4knemp/ogt6
+#EXTINF:-1,World Fashion RU
+http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
+#EXTINF:-1,Xsport UA
+http://92.242.120.22:1935/live/mp4:livestream/playlist.m3u8
+#EXTINF:-1,ZOOM
+http://kim.freeslynet.online:8799
+#EXTINF:-1,Zee TV
+http://193.23.58.156:4025/udp/234.1.10.54:1234
+#EXTINF:-1,Zik
+http://kim.freeslynet.online:8798
+#EXTINF:-1,Zik
+http://ziktv.cdnvideo.ru/ziktv/ziktv.sdp/playlist.m3u8
+#EXTINF:-1,Zoom
+http://vt.freeslynet.online/ch/4knemp/lqx7
+#EXTINF:-1,Zooпарк
+http://vt.freeslynet.online/ch/4knemp/73lb
+#EXTINF:-1,Zooпарк
+http://multi.freeslynet.online:80/udp/239.255.1.31:1234
+#EXTINF:-1,Zooпарк
+http://cdn-01.bonus-tv.ru:9090/btv/zoopark/type/user/devname/LG-SmartTV/devid/LG-1469118402/eol/20200101T0000/hash/283bc4bbe498f77b14b08658942a21a4cb0edcaf/playlist.m3u8
+#EXTINF:-1,Авто 24
+http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
+#EXTINF:-1,Авто 24
+http://cdn-01.bonus-tv.ru:9090/btv/auto24/type/user/devname/LG-SmartTV/devid/LG-1469117798/eol/20200101T0000/hash/b78eb235ba16507c26157dec00c15988f197c5e1/playlist.m3u8
+#EXTINF:-1,Авто 24
+http://vt.freeslynet.online/ch/4knemp/gwbb
+#EXTINF:-1,Авто 24 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Авто плюс
+http://vt.freeslynet.online/ch/4knemp/b84k
+#EXTINF:-1,Архыз 24
+http://vsd4.mycdn.me/hls/117964933828_high/index.m3u8
+#EXTINF:-1,Астрахань 24
+http://cdn-01.bonus-tv.ru:9090/astrakhan/astrakhan24/type/user/devname/LG-SmartTV/devid/LG-1462523553/eol/20200101T000000/hash/6e03328c523da2fa9031f82301e3c56c69702a8f/hls.m3u8
+#EXTINF:-1,Афонтово
+http://multi.freeslynet.online:80/udp/239.255.1.19:1234
+#EXTINF:-1,Беларусь 24
+http://video.tvr.by:1935/belarus24/live/playlist.m3u8
+#EXTINF:-1,Бигуди
+http://vt.freeslynet.online/ch/4knemp/o09f
+#EXTINF:-1,Боец
+http://193.23.58.156:4025/udp/234.1.20.21:1234
+#EXTINF:-1,Бум ТВ
+http://live-bumtv.cdnvideo.ru/bumtv-live/smil:bumtv.smil/playlist.m3u8
+#EXTINF:-1,ВМЕСТЕ РФ
+http://cdn-01.bonus-tv.ru:9090/vmesterf/vmesterf/type/user/devname/LG-SmartTV/devid/LG-1469271631/eol/20200101T0000/hash/6d0d11a702c7afe8506f32cd86a7ba8c277904cc/playlist.m3u8
+#EXTINF:-1,Вместе РФ
+http://vsd4.mycdn.me/hls/122060933779_high/index.m3u8
+#EXTINF:-1,Время
+http://multi.freeslynet.online:80/udp/239.255.1.24:1234
+#EXTINF:-1,Время
+http://vt.freeslynet.online/ch/4knemp/q1d7
+#EXTINF:-1,Гамма
+http://vt.freeslynet.online/ch/4knemp/evbj
+#EXTINF:-1,Гамма
+http://gamma.tv:1935/live/1_gamma/playlist.m3u8
+#EXTINF:-1,Глазами Туриста
+http://peerstv.ufanet.ru/utv/1320/index.m3u8
+#EXTINF:-1,Глас
+http://vt.freeslynet.online/ch/4knemp/b7gd
+#EXTINF:-1,Громадське
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:-1,Гумор
+http://212.26.132.86/hls/gumor_babai.m3u8
+#EXTINF:-1,ДАЧА
+http://kim.freeslynet.online:8800
+#EXTINF:-1,Дагестан
+http://vsd4.mycdn.me/hls/89450220246_high/index.m3u8
+#EXTINF:-1,Дача
+http://vt.freeslynet.online/ch/4knemp/atjw
+#EXTINF:-1,Дача
+http://193.23.58.156:4025/udp/234.1.10.38:1234
+#EXTINF:-1,Детский
+http://77.120.118.233:8000/1
+#EXTINF:-1,Детский
+http://cdn-01.bonus-tv.ru:9090/btv/detsky/type/user/devname/LG-SmartTV/devid/LG-1469191513/eol/20200101T00/hash/0fca988f39b64663335d4dbf37524c1c125fdefd/playlist.m3u8
+#EXTINF:-1,Детский Мир/Телеклуб
+http://vt.freeslynet.online/ch/4knemp/ag2b
+#EXTINF:-1,Дисней
+http://193.23.58.156:4025/udp/234.1.10.33:1234
+#EXTINF:-1,Дисней +4
+http://kuz.freeslynet.online/239.211.211.24/stream.m3u8
+#EXTINF:-1,Добро ТВ
+http://vt.freeslynet.online/ch/4knemp/dvyf
+#EXTINF:-1,Дом Кино Премиум HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Дом кино
+http://vt.freeslynet.online/ch/4knemp/ys5n
+#EXTINF:-1,Дом кино
+http://multi.freeslynet.online:80/udp/239.255.1.23:1234
+#EXTINF:-1,Домашние Животные
+http://vt.freeslynet.online/ch/4knemp/rz3k
+#EXTINF:-1,Домашние животные
+http://193.23.58.156:4025/udp/234.1.20.40:1234
+#EXTINF:-1,Домашний
+http://193.23.58.156:4025/udp/234.1.10.15:1234
+#EXTINF:-1,Домашний
+http://vt.freeslynet.online/ch/4knemp/kgv7
+#EXTINF:-1,Домашний +4
+http://multi.freeslynet.online:80/udp/239.255.1.3:1234
+#EXTINF:-1,Домашний +4
+http://kuz.freeslynet.online/239.211.211.26/stream.m3u8
+#EXTINF:-1,Домашний +4
+http://kuz.freeslynet.online/239.211.4.29/stream.m3u8
+#EXTINF:-1,Дон 24
+http://cdn-03.bonus-tv.ru/donmedia/don24/type/user/devname/LG-SmartTV/devid/LG-1459881171/eol/20200101T000000/hash/6e8b2a0e99ac2f16bf9ce37f8b114a62bc712c7d/playlist.m3u8
+#EXTINF:-1,Донбас
+http://vt.freeslynet.online/ch/4knemp/ywi0
+#EXTINF:-1,Драйв
+http://193.23.58.156:4025/udp/234.1.20.43:1234
+#EXTINF:-1,ЕКО
+http://kim.freeslynet.online:8808
+#EXTINF:-1,Еврокино
+http://193.23.58.156:4025/udp/234.1.20.4:1234
+#EXTINF:-1,Еврокино
+http://cdn-03.bonus-tv.ru/btv/eurokino/type/user/devname/LG-SmartTV/devid/LG-1458502634/eol/20200101T0000/hash/f62307be8e22c5352b374bce643777c23e879bd1/playlist.m3u8
+#EXTINF:-1,Еврокино
+http://vt.freeslynet.online/ch/4knemp/b1v4
+#EXTINF:-1,Еда HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Еко
+http://vt.freeslynet.online/ch/4knemp/r0yg
+#EXTINF:-1,Енисей
+http://multi.freeslynet.online:80/udp/239.255.1.10:1234
+#EXTINF:-1,Ералаш
+http://5.8.50.100:8085/live/eralash/playlist.m3u8
+#EXTINF:-1,Еспресо
+http://vt.freeslynet.online/ch/4knemp/97v7
+#EXTINF:-1,Звезда
+http://vt.freeslynet.online/ch/4knemp/vvk5
+#EXTINF:-1,Звезда
+http://193.23.58.156:4025/udp/234.1.10.18:1234
+#EXTINF:-1,Звезда
+http://cdn-01.bonus-tv.ru:9090/btv/zv/type/user/devname/LG-SmartTV/devid/LG-1469191980/eol/20200101T00/hash/e4eb87c59d6df8f0c492b474de047b6f72186a3d/zvezda.m3u8
+#EXTINF:-1,Звезда (Регион.)
+http://kuz.freeslynet.online/239.211.211.31/stream.m3u8
+#EXTINF:-1,Иллюзион+
+http://cdn-01.bonus-tv.ru/btv/illuzionplus/type/user/devname/LG-SmartTV/devid/LG-1445619284/eol/20200101T000000/hash/cfbc4cad5fb9330b23f4c07681e73a159c56e8c0/playlist.m3u8
+#EXTINF:-1,Иллюзион+
+http://vt.freeslynet.online/ch/4knemp/lo8d
+#EXTINF:-1,Индийское кино
+http://vs7.cdn.ott.otautv.kz:80/dtv/id40_KTR_SG--ZeeTV/03/plst.m3u8
+#EXTINF:-1,Индийское кино
+http://vt.freeslynet.online/ch/4knemp/8fa5
+#EXTINF:-1,Интер
+http://109.68.40.67/life/inter.m3u8
+#EXTINF:-1,Интер+
+http://vt.freeslynet.online/ch/4knemp/bb2z
+#EXTINF:-1,История
+http://vt.freeslynet.online/ch/4knemp/imaa
+#EXTINF:-1,К1
+http://vt.freeslynet.online/ch/4knemp/rq1y
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1,К2
+http://vt.freeslynet.online/ch/4knemp/9wdw
+#EXTINF:-1,КРТ
+http://vt.freeslynet.online/ch/4knemp/8sgl
+#EXTINF:-1,КХЛ
+http://193.23.58.156:4025/udp/234.1.20.24:1234
+#EXTINF:-1,КХЛ
+http://vt.freeslynet.online/ch/4knemp/lur4
+#EXTINF:-1,КХЛ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Калейдоскоп
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1,Калейдоскоп
+http://cdn-01.bonus-tv.ru/btv/kaleidoskop/type/user/devname/LG-SmartTV/devid/LG-1462037961/eol/20200101T000000/hash/23791547a72fbaf9206cbfbb3aa689bbd72d4c8c/playlist.m3u8
+#EXTINF:-1,Карусель
+http://vt.freeslynet.online/ch/4knemp/sjec
+#EXTINF:-1,Карусель
+http://cdn-01.bonus-tv.ru/btv/carousel/type/user/devname/LG-SmartTV/devid/LG-1444499273/eol/20200101T000000/hash/75f06451a6bcdee761765c7e203358d529988463/playlist.m3u8?token=null
+#EXTINF:-1,Карусель
+http://193.23.58.156:4025/udp/234.1.10.9:1234
+#EXTINF:-1,Карусель +3
+http://multi.freeslynet.online:80/udp/239.255.1.18:1234
+#EXTINF:-1,Карусель +3
+http://kuz.freeslynet.online/239.211.211.66/stream.m3u8
+#EXTINF:-1,Квартал ТВ
+http://vt.freeslynet.online/ch/4knemp/34wv
+#EXTINF:-1,Киев
+http://vt.freeslynet.online/ch/4knemp/lpbf
+#EXTINF:-1,Киев
+http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1,Кино ТВ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,КиноПремиум HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Кинокомедия
+http://vt.freeslynet.online/ch/4knemp/ys4u
+#EXTINF:-1,Киноменю HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1,Киноменю HD
+https://vsd4.mycdn.me/hls/127743035916_high/index.m3u8
+#EXTINF:-1,Киномикс
+http://vt.freeslynet.online/ch/4knemp/17p1
+#EXTINF:-1,Киномикс
+http://193.23.58.156:4025/udp/234.1.20.25:1234
+#EXTINF:-1,Киномикс[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Кинопоказ HD1[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Кинопоказ HD2[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Кинопремьера HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Киносвидание
+http://193.23.58.156:4025/udp/234.1.20.30:1234
+#EXTINF:-1,Киносвидание
+http://vt.freeslynet.online/ch/4knemp/tsbx
+#EXTINF:-1,Киносемья
+http://vt.freeslynet.online/ch/4knemp/q7l7
+#EXTINF:-1,Киносемья
+http://193.23.58.156:4025/udp/234.1.20.31:1234
+#EXTINF:-1,Кинохит
+http://vt.freeslynet.online/ch/4knemp/itvu
+#EXTINF:-1,Конный Мир HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Крик ТВ
+http://cdn-03.bonus-tv.ru/btv/kriktv/type/user/devname/LG-SmartTV/devid/LG-1459265093/eol/20200101T000000/hash/d4bd759a20e4fdfaaa965ca02458790407e6d8b1/playlist.m3u8
+#EXTINF:-1,Крым 1 HD
+http://109.200.157.43/hls/1tvcrimea.m3u8
+#EXTINF:-1,Крым 24 HD
+http://109.200.157.61/hls/crimea24.m3u8
+#EXTINF:-1,Кто есть кто
+http://vt.freeslynet.online/ch/4knemp/1m8g
+#EXTINF:-1,Культура UA
+http://212.26.129.98/hls/culture-2m.m3u8
+#EXTINF:-1,Кухня ТВ
+http://vt.freeslynet.online/ch/4knemp/53ti
+#EXTINF:-1,Любимое.TV
+http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
+#EXTINF:-1,Ля Минор
+http://vt.freeslynet.online/ch/4knemp/rkzn
+#EXTINF:-1,М1
+http://kim.freeslynet.online:8793
+#EXTINF:-1,М1
+http://vt.freeslynet.online/ch/4knemp/wwuo
+#EXTINF:-1,М2
+http://vt.freeslynet.online/ch/4knemp/et34
+#EXTINF:-1,М2
+http://kim.freeslynet.online:8785
+#EXTINF:-1,МАЛЯТКО
+http://kim.freeslynet.online:8790
+#EXTINF:-1,МЕГА
+http://kim.freeslynet.online:8794
+#EXTINF:-1,МИР
+http://149.255.152.110/mir/index.m3u8
+#EXTINF:-1,МИР 24
+http://vt.freeslynet.online/ch/4knemp/h7hz
+#EXTINF:-1,МИР 24
+http://149.255.152.110/mir24/index.m3u8
+#EXTINF:-1,Малятко
+http://193.23.58.156:4025/udp/234.1.10.59:1234
+#EXTINF:-1,Малятко ТВ
+http://vt.freeslynet.online/ch/4knemp/phao
+#EXTINF:-1,Мама
+http://vt.freeslynet.online/ch/4knemp/t9bm
+#EXTINF:-1,Матч
+http://kuz.freeslynet.online/239.211.211.27/stream.m3u8
+#EXTINF:-1,Матч
+http://193.23.58.156:4025/udp/234.1.10.3:1234
+#EXTINF:-1,Матч ТВ
+http://multi.freeslynet.online:80/udp/239.255.1.12:1234
+#EXTINF:-1,Матч ТВ
+http://cdn-01.bonus-tv.ru/btv/matchtv/type/user/devname/LG-SmartTV/devid/LG-1469737267/eol/20200101T0000/hash/c2dd86bfec16e0bf9d3734302497b9f03f77c3a7/playlist.m3u8?token=null
+#EXTINF:-1,Матч ТВ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Арена HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Игра HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Наш Футбол HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Наш Футбол[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Планета
+http://vs7.cdn.ott.otautv.kz:80/dtv/id34_KTR_SG--boec/03/plst.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Мега
+http://vt.freeslynet.online/ch/4knemp/am7l
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир
+http://vt.freeslynet.online/ch/4knemp/pk47
+#EXTINF:-1,Мир +3
+http://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv3_2500/playlist.m3u8
+#EXTINF:-1,Мир +3
+http://kuz.freeslynet.online/239.211.211.52/stream.m3u8
+#EXTINF:-1,Мир +4
+http://multi.freeslynet.online:80/udp/239.255.1.25:1234
+#EXTINF:-1,Мир 24
+http://193.23.58.156:4025/udp/234.1.10.22:1234
+#EXTINF:-1,Мир 24
+http://vsd4.mycdn.me/hls/72220740244_high/index.m3u8
+#EXTINF:-1,Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Много ТВ
+http://vt.freeslynet.online/ch/4knemp/ksye
+#EXTINF:-1,Мой город (Кемерово)
+http://kuz.freeslynet.online/239.211.4.30/stream.m3u8
+#EXTINF:-1,Морской
+http://193.23.58.156:4025/udp/234.1.20.39:1234
+#EXTINF:-1,Москва 24
+http://vsd4.mycdn.me/hls/102930975370_high/index.m3u8
+#EXTINF:-1,Москва 24
+http://testlivestream.rfn.ru/live/_definst_/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Москва 24
+http://vt.freeslynet.online/ch/4knemp/iq9s
+#EXTINF:-1,Москва 24
+http://193.23.58.156:4025/udp/234.1.10.25:1234
+#EXTINF:-1,Моя Планета
+http://testlivestream.rfn.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Моя планета
+http://vt.freeslynet.online/ch/4knemp/j2ik
+#EXTINF:-1,Моя планета
+http://multi.freeslynet.online:80/udp/239.255.1.28:1234
+#EXTINF:-1,Мужское кино HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Мужской
+http://193.23.58.156:4025/udp/234.1.20.27:1234
+#EXTINF:-1,Мужской[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Муз
+http://193.23.58.156:4025/udp/234.1.10.21:1234
+#EXTINF:-1,Муз ТВ
+http://kuz.freeslynet.online/239.211.211.5/stream.m3u8
+#EXTINF:-1,Муз ТВ
+http://vt.freeslynet.online/ch/4knemp/vi9b
+#EXTINF:-1,Музыка Первого
+http://vt.freeslynet.online/ch/4knemp/rd8z
+#EXTINF:-1,Мульт
+http://kuz.freeslynet.online/239.211.211.6/stream.m3u8
+#EXTINF:-1,Мультимания
+http://193.23.58.156:4025/udp/234.1.10.39:1234
+#EXTINF:-1,Мультимания
+http://77.120.118.233:8000/5
+#EXTINF:-1,Мультимания
+http://serv24.vintera.tv:8081/detskiy/multimania/playlist.m3u8
+#EXTINF:-1,НАШЕ ТВ
+http://nashetv01.hostingradio.ru:8081/hls/nashetv/nashelive.m3u8
+#EXTINF:-1,НТВ
+http://149.255.152.110/ntv/index.m3u8
+#EXTINF:-1,НТВ
+http://cdn-01.bonus-tv.ru/btv/ntv/type/user/devname/LG-SmartTV/devid/LG-1443476459/eol/20200101T000000/hash/07e5d115938e1cca996a05faf0b60c22fadea89c/playlist.m3u8
+#EXTINF:-1,НТВ
+http://vt.freeslynet.online/ch/4knemp/y8eb
+#EXTINF:-1,НТВ +4
+http://multi.freeslynet.online:80/udp/239.255.1.9:1234
+#EXTINF:-1,НТВ +4
+http://kuz.freeslynet.online/239.211.4.4/stream.m3u8
+#EXTINF:-1,НТВ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ Мир[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТН
+http://kim.freeslynet.online:8796
+#EXTINF:-1,НТН
+http://vt.freeslynet.online/ch/4knemp/dys0
+#EXTINF:-1,НТН
+http://109.68.40.67/life/ntn.m3u8
+#EXTINF:-1,Надiя
+http://vt.freeslynet.online/ch/4knemp/2yf6
+#EXTINF:-1,Надiя
+https://stream.hope.ua/hopeua/smil:hopeua.smil/playlist.m3u8
+#EXTINF:-1,Нано ТВ
+http://vt.freeslynet.online/ch/4knemp/dtyk
+#EXTINF:-1,Наука
+http://193.23.58.156:4025/udp/234.1.20.5:1234
+#EXTINF:-1,Наука 2.0
+http://vt.freeslynet.online/ch/4knemp/ry6z
+#EXTINF:-1,Наша Сибирь
+http://serv24.vintera.tv:8081/siberia/siberia/playlist.m3u8
+#EXTINF:-1,Наше HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Наше Новое кино
+http://193.23.58.156:4025/udp/234.1.20.26:1234
+#EXTINF:-1,Наше новое кино
+http://vt.freeslynet.online/ch/4knemp/m2gx
+#EXTINF:-1,Наше новое кино
+http://149.255.152.110/nashanovoekino/index.m3u8
+#EXTINF:-1,Наше новое кино[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Новое Телевидение
+http://hls.novoetv.cdnvideo.ru/novoetv/novoetv.sdp/playlist.m3u8
+#EXTINF:-1,Новороссия
+http://193.23.58.156:4025/udp/234.1.10.29:1234
+#EXTINF:-1,Новый
+http://kim.freeslynet.online:8795
+#EXTINF:-1,Новый Канал
+http://vt.freeslynet.online/ch/4knemp/x4f7
+#EXTINF:-1,Ностальгия
+http://vt.freeslynet.online/ch/4knemp/bfdd
+#EXTINF:-1,О2 ТВ HD
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+#EXTINF:-1,ОНТ
+http://93.125.31.151:1935/live/ont.stream/playlist.m3u8
+#EXTINF:-1,ОТР
+http://multi.freeslynet.online:80/udp/239.255.1.20:1234
+#EXTINF:-1,ОТР
+http://kuz.freeslynet.online/239.211.211.188/stream.m3u8
+#EXTINF:-1,ОТР
+http://kuz.freeslynet.online/239.211.211.1/stream.m3u8
+#EXTINF:-1,ОТР
+http://vt.freeslynet.online/ch/4knemp/ah5n
+#EXTINF:-1,ОТР
+http://193.23.58.156:4025/udp/234.1.10.10:1234
+#EXTINF:-1,ОТС
+http://hlstv.nsk.211.ru/239.211.211.23/stream.m3u8
+#EXTINF:-1,Оплот
+http://193.23.58.156:4025/udp/234.1.10.28:1234
+#EXTINF:-1,Оплот 2
+http://193.23.58.156:4025/udp/234.1.10.27:1234
+#EXTINF:-1,Оружие
+http://cdn-01.bonus-tv.ru:9090/btv/orujie/type/user/devname/LG-SmartTV/devid/LG-1469279740/eol/20200101T0000/hash/4bc4564052bbeca706cdf9443e748194a3ed131c/playlist.m3u8
+#EXTINF:-1,Осинники ТВ
+http://kuz.freeslynet.online/239.211.4.41/stream.m3u8
+#EXTINF:-1,Остросюжетное HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Открытый HD
+http://77.232.128.68/bks.m3u8
+#EXTINF:-1,Охота и Рыбалка
+http://vt.freeslynet.online/ch/4knemp/llmi
+#EXTINF:-1,Охота и рыбалка
+http://193.23.58.156:4025/udp/234.1.20.44:1234
+#EXTINF:-1,Охотник и Рыболов
+http://62.76.26.81:8081/sport/oir_09/playlist.m3u8
+#EXTINF:-1,Охотник и Рыболов
+http://vt.freeslynet.online/ch/4knemp/v3td
+#EXTINF:-1,Охотник и Рыболов HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ПИК ТВ
+http://phone.pik-tv.com/live/piktv2pik2tv/playlist.m3u8
+#EXTINF:-1,ПИК ТВ HD
+http://phone.pik-tv.com/live/piktv3pik3tv/playlist.m3u8
+#EXTINF:-1,ПИКСЕЛЬ
+http://kim.freeslynet.online:8791
+#EXTINF:-1,ПЛЮС ПЛЮС
+http://kim.freeslynet.online:8782
+#EXTINF:-1,Пенза ТВ
+http://vsd4.mycdn.me/hls/111181957846_high/index.m3u8
+#EXTINF:-1,Первый
+http://193.23.58.156:4025/udp/234.1.10.4:1234
+#EXTINF:-1,Первый
+http://vt.freeslynet.online/ch/4knemp/vw72
+#EXTINF:-1,Первый (Казахстан)
+http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1,Первый +4
+http://multi.freeslynet.online:80/udp/239.255.1.1:1234
+#EXTINF:-1,Первый +4
+http://kuz.freeslynet.online/239.211.4.1/stream.m3u8
+#EXTINF:-1,Первый +8[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Первый HD +4
+http://hlstv.nsk.211.ru/239.211.200.1/stream.m3u8
+#EXTINF:-1,Первый HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Первый Авто
+http://vt.freeslynet.online/ch/4knemp/7gab
+#EXTINF:-1,Первый Деловой
+http://vt.freeslynet.online/ch/4knemp/b5oq
+#EXTINF:-1,Первый Метео
+http://vt.freeslynet.online/ch/4knemp/ydfv
+#EXTINF:-1,Первый Метео
+http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
+#EXTINF:-1,Первый республиканский
+http://193.23.58.156:4025/udp/234.1.10.26:1234
+#EXTINF:-1,Перец int.[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Перший
+http://vt.freeslynet.online/ch/4knemp/r6iz
+#EXTINF:-1,Перший
+http://kim.freeslynet.online:8789
+#EXTINF:-1,Перший UA
+http://vt.freeslynet.online/ch/4knemp/v14f
+#EXTINF:-1,Пиксель
+http://vt.freeslynet.online/ch/4knemp/6vji
+#EXTINF:-1,Планета HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Планета UA
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Плюс Плюс
+http://vt.freeslynet.online/ch/4knemp/5uil
+#EXTINF:-1,Про Бизнес
+http://vsd4.mycdn.me/hls/106705848931_high/index.m3u8
+#EXTINF:-1,Про жизнь
+http://kuz.freeslynet.online/239.211.4.52/stream.m3u8
+#EXTINF:-1,Продвижение (Омск)
+http://cdn-03.bonus-tv.ru/btv/omsk_prodvizhenie/type/user/devname/LG-SmartTV/devid/LG-1466689845/eol/20200101T0000/hash/cd6b4ce0c2530527fba99c54c8357321d8e08504/playlist.m3u8
+#EXTINF:-1,Просвещение
+http://cdn-01.bonus-tv.ru:9090/btv/prosveschenie/type/user/devname/LG-SmartTV/devid/LG-1466153612/eol/20200101T0000/hash/d377979a39ddf0341bc0e4543c4665bc7c5b0d81/playlist.m3u8
+#EXTINF:-1,Психология 21
+http://vt.freeslynet.online/ch/4knemp/x3q8
+#EXTINF:-1,Пятница
+http://vt.freeslynet.online/ch/4knemp/orq6
+#EXTINF:-1,Пятница +2
+http://kuz.freeslynet.online/239.211.211.21/stream.m3u8
+#EXTINF:-1,Пятница +4
+http://kuz.freeslynet.online/239.211.4.16/stream.m3u8
+#EXTINF:-1,Пятница +4
+http://multi.freeslynet.online:80/udp/239.255.1.11:1234
+#EXTINF:-1,Пятый
+http://vt.freeslynet.online/ch/4knemp/8fry
+#EXTINF:-1,Пятый канал
+http://cdn-03.bonus-tv.ru/btv/5channel/type/user/devname/LG-SmartTV/devid/LG-1443966307/eol/20200101T000000/hash/c5002628938b4e7cdb45caaf34092a01fcf65c86/playlist.m3u8
+#EXTINF:-1,Пятый канал
+http://193.23.58.156:4025/udp/234.1.10.6:1234
+#EXTINF:-1,Пятый канал +4
+http://kuz.freeslynet.online/239.211.4.5/stream.m3u8
+#EXTINF:-1,Пятый канал +4
+http://multi.freeslynet.online:80/udp/239.255.1.17:1234
+#EXTINF:-1,РБК
+http://vsd4.mycdn.me/hls/76080810519_high/index.m3u8
+#EXTINF:-1,РБК
+http://kuz.freeslynet.online/239.211.211.76/stream.m3u8
+#EXTINF:-1,РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1,РБК
+http://vt.freeslynet.online/ch/4knemp/y769
+#EXTINF:-1,РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1,РЕН-ТВ
+http://vt.freeslynet.online/ch/4knemp/wmet
+#EXTINF:-1,РИА Новости
+http://rian.cdnvideo.ru/rr/stream20/playlist.m3u8
+#EXTINF:-1,Рада
+http://vt.freeslynet.online/ch/4knemp/jrh0
+#EXTINF:-1,Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1,Радость Моя
+http://cdn-01.bonus-tv.ru:9090/btv/radostmoya/type/user/devname/LG-SmartTV/devid/LG-1469279137/eol/20200101T0000/hash/5debf0f316b470dad92f42b29d2663c5f707af44/playlist.m3u8
+#EXTINF:-1,Рен (Новокузнецк)
+http://kuz.freeslynet.online/239.211.4.20/stream.m3u8
+#EXTINF:-1,Рен ТВ +4
+http://multi.freeslynet.online:80/udp/239.255.1.4:1234
+#EXTINF:-1,Рен ТВ +4
+http://kuz.freeslynet.online/239.211.4.31/stream.m3u8
+#EXTINF:-1,Родное кино
+http://vt.freeslynet.online/ch/4knemp/toup
+#EXTINF:-1,Родное кино[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Россия 1
+http://vt.freeslynet.online/ch/4knemp/dl44
+#EXTINF:-1,Россия 1
+http://149.255.152.110/russia1/index.m3u8
+#EXTINF:-1,Россия 1
+http://testlivestream.rfn.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1
+http://193.23.58.156:4025/udp/234.1.10.2:1234
+#EXTINF:-1,Россия 1
+http://cdn-01.bonus-tv.ru/btv/russia1/type/user/devname/LG-SmartTV/devid/LG-1446137959/eol/20200101T000000/hash/86ca396736cabb8770c56e8619b4b16404399c58/playlist.m3u8?token=null
+#EXTINF:-1,Россия 1 +4
+http://kuz.freeslynet.online/239.211.4.2/stream.m3u8
+#EXTINF:-1,Россия 1 +4
+http://multi.freeslynet.online:80/udp/239.255.1.2:1234
+#EXTINF:-1,Россия 1 HD
+http://testlivestream.rfn.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1 HD
+http://cdn-01.bonus-tv.ru/btv/russiahd/type/user/devname/LG-SmartTV/devid/LG-1469703292/eol/20200101T0000/hash/1b7599c0021067fe3590d9ed45db70712b2b1ef8/playlist.m3u8?token=null
+#EXTINF:-1,Россия 1 HD
+http://hlstv.nsk.211.ru/239.211.200.2/stream.m3u8
+#EXTINF:-1,Россия 24
+http://vt.freeslynet.online/ch/4knemp/d4h1
+#EXTINF:-1,Россия 24
+http://testlivestream.rfn.ru/live/smil:r24.smil/chunklist_b800000.m3u8?auth=vh&amp;cast_id=21
+#EXTINF:-1,Россия 24
+http://193.23.58.156:4025/udp/234.1.10.8:1234
+#EXTINF:-1,Россия 24
+http://149.255.152.110/russia24/index.m3u8
+#EXTINF:-1,Россия 24
+http://cdn-01.bonus-tv.ru:9090/btv/russia24/type/user/devname/LG-SmartTV/devid/LG-1469702315/eol/20200101T0000/hash/d01400afe80a7e17f7b2c7eef5c8c3ff1dd087de/playlist.m3u8?token=null
+#EXTINF:-1,Россия 24
+http://vsd6.mycdn.me/hls/71185271394.m3u8
+#EXTINF:-1,Россия 24
+http://multi.freeslynet.online:80/udp/239.255.1.13:1234
+#EXTINF:-1,Россия 24 (Регион.)
+http://kuz.freeslynet.online/239.211.4.3/stream.m3u8
+#EXTINF:-1,Россия К
+http://cdn-01.bonus-tv.ru/btv/russiak/type/user/devname/LG-SmartTV/devid/LG-1444679786/eol/20200101T000000/hash/4c075ba9500d2e5d3404cb620185f4605e7e3a87/playlist.m3u8
+#EXTINF:-1,Россия К
+http://vt.freeslynet.online/ch/4knemp/1q41
+#EXTINF:-1,Россия К
+http://193.23.58.156:4025/udp/234.1.10.7:1234
+#EXTINF:-1,Россия К
+http://testlivestream.rfn.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия К +4
+http://multi.freeslynet.online:80/udp/239.255.1.15:1234
+#EXTINF:-1,Россия К +4
+http://kuz.freeslynet.online/239.211.4.6/stream.m3u8
+#EXTINF:-1,Россия РТР
+http://vs7.cdn.ott.otautv.kz:80/dtv/id78_KTR_SG--RTRPlaneta/03/plst.m3u8
+#EXTINF:-1,Россия РТР
+http://testlivestream.rfn.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://cdn-01.bonus-tv.ru:9090/btv/illuzionrus/type/user/devname/LG-SmartTV/devid/LG-1469279316/eol/20200101T0000/hash/2275fdb11a701e4b8f294b8c82685b86d8f5f23d/playlist.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://vt.freeslynet.online/ch/4knemp/325v
+#EXTINF:-1,Русский Экстрим
+http://vt.freeslynet.online/ch/4knemp/39oe
+#EXTINF:-1,Русский Экстрим
+http://cdn-01.bonus-tv.ru:9090/btv/russkiyextrim/type/user/devname/LG-SmartTV/devid/LG-1469279376/eol/20200101T0000/hash/c2eb79e9fa394373dc84741528d14359c573820f/playlist.m3u8
+#EXTINF:-1,Рыжий
+http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1,СОНЦЕ
+http://kim.freeslynet.online:8805
+#EXTINF:-1,СТБ
+http://vt.freeslynet.online/ch/4knemp/vac4
+#EXTINF:-1,СТБ
+http://kim.freeslynet.online:8787
+#EXTINF:-1,СТВ (Беларусь)
+http://93.125.30.18:1935/ctv/live.stream/manifest.m3u8
+#EXTINF:-1,СТРК HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:-1,СТС
+http://vt.freeslynet.online/ch/4knemp/tpfg
+#EXTINF:-1,СТС
+http://149.255.152.110/ctctv/index.m3u8
+#EXTINF:-1,СТС
+http://193.23.58.156:4025/udp/234.1.10.14:1234
+#EXTINF:-1,СТС +4
+http://kuz.freeslynet.online/239.211.4.9/stream.m3u8
+#EXTINF:-1,СТС +4
+http://multi.freeslynet.online:80/udp/239.255.1.6:1234
+#EXTINF:-1,СТС Love
+http://193.23.58.156:4025/udp/234.1.10.34:1234
+#EXTINF:-1,СТС Love
+http://kuz.freeslynet.online/239.211.211.99/stream.m3u8
+#EXTINF:-1,СТС Love
+http://vt.freeslynet.online/ch/4knemp/g3an
+#EXTINF:-1,СТС Мир
+http://hlstv.nsk.211.ru/239.211.255.18/stream.m3u8
+#EXTINF:-1,Санкт-Петербург
+http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Семейное HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Скат 24
+http://hls.scattv.cdnvideo.ru/scattv2/IP-CDN_Scat24online_hq.sdp/playlist.m3u8
+#EXTINF:-1,СовСек
+http://193.23.58.156:4025/udp/234.1.20.8:1234
+#EXTINF:-1,Совершенно Секретно
+http://vt.freeslynet.online/ch/4knemp/ssnl
+#EXTINF:-1,Совершенно секретно
+http://serv23.vintera.tv:8081/secret/sovsec1/playlist.m3u8
+#EXTINF:-1,Сонце
+http://vt.freeslynet.online/ch/4knemp/gtgj
+#EXTINF:-1,Союз
+http://vt.freeslynet.online/ch/4knemp/6rd9
+#EXTINF:-1,Союз
+http://kuz.freeslynet.online/239.211.211.56/stream.m3u8
+#EXTINF:-1,Союз
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1,Спас
+http://193.23.58.156:4025/udp/234.1.10.13:1234
+#EXTINF:-1,Спас
+http://kuz.freeslynet.online/239.211.211.102/stream.m3u8
+#EXTINF:-1,Спас
+http://spastv.cdnvideo.ru/spastv-live/spastv.sdp/playlist.m3u8
+#EXTINF:-1,Страна
+http://testlivestream.rfn.ru/live/smil:strana.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Страна FM TV
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1,Страшное HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ТБН
+http://109.68.190.192:1935/WEB_TBN/TBN.stream/playlist.m3u8
+#EXTINF:-1,ТВ-3
+http://vt.freeslynet.online/ch/4knemp/hjjr
+#EXTINF:-1,ТВ3
+http://149.255.152.110/tv3/index.m3u8
+#EXTINF:-1,ТВ3
+http://193.23.58.156:4025/udp/234.1.10.16:1234
+#EXTINF:-1,ТВ3 +4
+http://kuz.freeslynet.online/239.211.211.150/stream.m3u8
+#EXTINF:-1,ТВ3 +4
+http://multi.freeslynet.online:80/udp/239.255.1.5:1234
+#EXTINF:-1,ТВ7 (Мариуполь)[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ТВЦ
+http://vt.freeslynet.online/ch/4knemp/w36x
+#EXTINF:-1,ТВЦ
+http://tvc.cdnvideo.ru/rr/smil:tvc.smil/playlist.m3u8
+#EXTINF:-1,ТВЦ +4
+http://multi.freeslynet.online:80/udp/239.255.1.16:1234
+#EXTINF:-1,ТВЦ/ТВН (Новокузнецк)
+http://kuz.freeslynet.online/239.211.4.12/stream.m3u8
+#EXTINF:-1,ТДК
+http://vt.freeslynet.online/ch/4knemp/p25w
+#EXTINF:-1,ТДК
+http://live.tdktv.cdnvideo.ru/tdktv/tdktv.sdp/playlist.m3u8
+#EXTINF:-1,ТЕТ
+http://vt.freeslynet.online/ch/4knemp/bay9
+#EXTINF:-1,ТНВ Планета
+http://cdn-04.bonus-tv.ru/btv/tnv/type/user/devname/LG-SmartTV/devid/LG-1466001454/eol/20200101T0000/hash/466b0e95f9dcf6afeb751391412cccb3a464cf8d/playlist.m3u8
+#EXTINF:-1,ТНВ Планета
+http://nv.vintera.tv:8081/nv/nov_vek/playlist.m3u8
+#EXTINF:-1,ТНВ-Планета
+http://vt.freeslynet.online/ch/4knemp/s4xr
+#EXTINF:-1,ТНТ
+http://vt.freeslynet.online/ch/4knemp/p043
+#EXTINF:-1,ТНТ
+http://193.23.58.156:4025/udp/234.1.10.20:1234
+#EXTINF:-1,ТНТ +4
+http://kuz.freeslynet.online/239.211.4.8/stream.m3u8
+#EXTINF:-1,ТНТ +4
+http://multi.freeslynet.online:80/udp/239.255.1.14:1234
+#EXTINF:-1,ТНТ +7[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ТНТ Music
+http://cdn-04.bonus-tv.ru/btv/tntmusic/type/user/devname/LG-SmartTV/devid/LG-1469013493/eol/20200101T0000/hash/31f1cdfc91072d63a48690432c5baf7c6163c352/playlist.m3u8
+#EXTINF:-1,ТНТ Music
+http://hls.tntmusic.cdnvideo.ru.ru2.gsr.awhoer.net/tntmusic/tntmusic2.smil/playlist.m3u8
+#EXTINF:-1,ТНТ/27 канал
+http://kuz.freeslynet.online/239.211.4.51/stream.m3u8
+#EXTINF:-1,ТНТ4
+http://149.255.152.110/tht4/index.m3u8
+#EXTINF:-1,ТНТ4
+http://vt.freeslynet.online/ch/4knemp/8uv9
+#EXTINF:-1,ТРЕЙЛЕР ТВ
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
+#EXTINF:-1,ТРО
+http://multi.freeslynet.online:80/udp/239.255.1.26:1234
+#EXTINF:-1,ТРО
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1,ТРОФЕЙ
+http://kim.freeslynet.online:8803
+#EXTINF:-1,Теледом
+http://cdn-01.bonus-tv.ru/btv/teledom/type/user/devname/LG-SmartTV/devid/LG-1449432412/eol/20200101T000000/hash/e9b84f5441a92e411f81ccb44daebe8a5ae7d16c/playlist.m3u8
+#EXTINF:-1,Теледом HD
+rtmp://91.209.128.203:1935/live/teledom3
+#EXTINF:-1,Телекафе
+http://vt.freeslynet.online/ch/4knemp/osz2
+#EXTINF:-1,Терра
+http://193.23.58.156:4025/udp/234.1.20.3:1234
+#EXTINF:-1,Техно 24
+http://multi.freeslynet.online:80/udp/239.255.1.30:1234
+#EXTINF:-1,Точка
+http://cdn-03.bonus-tv.ru/btv/tochkatv/type/user/devname/LG-SmartTV/devid/LG-1458069587/eol/20200101T000000/hash/6f2618b6bf87cb6adb6c888aff31f912a8807c1a/playlist.m3u8
+#EXTINF:-1,Точка ТВ
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1,Трофей
+http://vt.freeslynet.online/ch/4knemp/ujt9
+#EXTINF:-1,Трофей HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&amp;session=5488c6087e1ea6.57082302
+#EXTINF:-1,Туапсе 24
+https://vsd4.mycdn.me/hls/98684242594_high/index.m3u8
+#EXTINF:-1,Тюменское Время
+https://vsd4.mycdn.me/hls/104222034604_high/index.m3u8
+#EXTINF:-1,Украина
+http://vt.freeslynet.online/ch/4knemp/e4gs
+#EXTINF:-1,Улыбка Ребенка
+http://109.68.190.192:1935/WEB_SmileTV/SmileTV.stream/playlist.m3u8
+#EXTINF:-1,Униан
+http://kim.freeslynet.online:8807
+#EXTINF:-1,Униан ТВ
+http://vt.freeslynet.online/ch/4knemp/731k
+#EXTINF:-1,Усадьба
+http://193.23.58.156:4025/udp/234.1.20.42:1234
+#EXTINF:-1,Феникс Плюс Кино
+http://cdn-01.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8
+#EXTINF:-1,Футбол
+http://serv24.vintera.tv:8081/sport/futbol_09/playlist.m3u8
+#EXTINF:-1,Футбол 1 Украина HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Футбол 2 Украина HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Царьград
+http://vsd4.mycdn.me/hls/116778666624_high/index.m3u8
+#EXTINF:-1,ЧП Инфо
+http://kim.freeslynet.online:8802
+#EXTINF:-1,ЧП Инфо
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1,Че
+http://vt.freeslynet.online/ch/4knemp/6hox
+#EXTINF:-1,Че
+http://193.23.58.156:4025/udp/234.1.10.24:1234
+#EXTINF:-1,Че
+http://149.255.152.110/che/index.m3u8
+#EXTINF:-1,Че +4
+http://multi.freeslynet.online:80/udp/239.255.1.8:1234
+#EXTINF:-1,Че +4
+http://kuz.freeslynet.online/239.211.211.100/stream.m3u8
+#EXTINF:-1,Шансон
+http://cdn-01.bonus-tv.ru:9090/btv/shansontv/type/user/devname/LG-SmartTV/devid/LG-1467648036/eol/202001T0000/hash/220cee46b26911259727822cd14ba630d9cde1ba/playlist.m3u8
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1,Щелково
+http://193.23.58.156:4025/udp/234.1.10.36:1234
+#EXTINF:-1,Эгоист ТВ
+http://vt.freeslynet.online/ch/4knemp/cihf
+#EXTINF:-1,Ю
+http://kuz.freeslynet.online/239.211.211.29/stream.m3u8
+#EXTINF:-1,Ю
+http://149.255.152.110/utv/index.m3u8
+#EXTINF:-1,Ю
+http://vt.freeslynet.online/ch/4knemp/ipwb
+#EXTINF:-1,Ю +2
+http://193.23.58.156:4025/udp/234.1.10.31:1234
+#EXTINF:-1,Юмор Box
+http://musicbox.cdnvideo.ru/musicbox/humorbox.sdp/playlist.m3u8
+#EXTINF:-1,Юнион
+http://193.23.58.156:4025/udp/234.1.10.30:1234
+#EXTINF:-1,=== ИНФОРМАЦИЯ ===
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,=== sly &amp; oknijb234
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,=== Последнее обновление 17.09.16
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,=== Самообновляемый плейлист FreeSlyNet
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,=== v2.7
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,= Наша группа ВКонтакте http://vk.com/clubSlyNet
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,== http://vk.com/clubSlyNet
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,= Наш сайт http://slynet.tv
+http://j.mp/startslynetiptv?.m3u8
+#EXTINF:-1,== http://slynet.tv
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,== У нас появился Premium Playlist ==
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,== вопросы на slynetiptv@gmail.com ==
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8

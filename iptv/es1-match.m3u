@@ -1,0 +1,6 @@
+﻿#EXTM3U
+#EXTINF:-1,Eurosport 1
+http://217.114.191.238:8080/Eurosport/tracks-v1a1/index.m3u8
+#EXTINF:-1,Матч!ТВ  
+http://stream.kaban.tv/hls/match.m3u8
+---Плейлисты здесь http://podkola.net/iptv-playlist —---

@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1,Public TV
+http://win.cdn.bonus-tv.ru/TVB7/publictv/index.m3u8
+#EXTINF:-1,KBS
+http://win.cdn.bonus-tv.ru/TVB7/kbsworld/playlist.m3u8
+#EXTINF:-1,Теледом
+http://win.cdn.bonus-tv.ru/TVB7/teledom/index.m3u8
+#EXTINF:-1,Красная Линия
+http://kprf-live.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1,World Business Channel HD
+http://win.cdn.bonus-tv.ru/TVB7/wbc/playlist.m3u8
+#EXTINF:-1,Новое Телевидение
+http://hls.novoetv.cdnvideo.ru/novoetv/novoetv.sdp/playlist.m3u8
+#EXTINF:-1,Вместе РФ
+http://cdn-01.bonus-tv.ru/TVB7/vmesterf/playlist.m3u8
+#EXTINF:-1,МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,TVM Channel
+http://win.cdn.bonus-tv.ru/TVB7/tvm/playlist.m3u8
+#EXTINF:-1,Звезда
+http://win.cdn.bonus-tv.ru/TVB8/zv/zvezda.m3u8
+#EXTINF:-1,Омск 12 Канал
+http://player.bonus-tv.ru:7000/mainfest-all.m3u8
+#EXTINF:-1,RT Doc
+http://win.cdn.bonus-tv.ru/TVB7/rtdoc/playlist.m3u8
+#EXTINF:-1,RT
+http://win.cdn.bonus-tv.ru/TVB7/rttv/playlist.m3u8
+#EXTINF:-1,Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Тамыр
+http://win.cdn.bonus-tv.ru/TVB4/tamyr/playlist.m3u8
+#EXTINF:-1,Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Россия HD
+http://bal.bonus-tv.ru/btv/russiahd/type/user/devname/LG-SmartTV/devid/LG-1428090937/eol/20200101T000000/hash/b6658f89a7f1f270966b9ab9c73c35a3c9e1a249/playlist.m3u8
+#EXTINF:-1,1HD
+http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
+#EXTINF:-1,БСТ
+http://player.bonus-tv.ru:7777/mainfest-all.m3u8
+#EXTINF:-1,Нано ТВ
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,World Fashion Россия HD
+http://win.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8
+#EXTINF:-1,ТНВ-планета
+http://win.cdn.bonus-tv.ru/TVB4/tnv/playlist.m3u8
+#EXTINF:-1,World Fashion Europe HD
+http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1,Просвещение
+http://win.cdn.bonus-tv.ru/TVB4/prosvewenie/playlist.m3u8
+#EXTINF:-1,Курай
+http://win.cdn.bonus-tv.ru/TVB4/kurai/playlist.m3u8
+#EXTINF:-1,Астрахань 24
+http://control.bonus-tv.ru:8050/astrakhan/playlist.m3u8
+#EXTINF:-1,Shop 24
+http://win.cdn.bonus-tv.ru/TVB4/stilimoda/playlist.m3u8
+#EXTINF:-1,Первый областной
+http://win.cdn.bonus-tv.ru/TVB4/otv/playlist.m3u8
+#EXTINF:-1,Радость Моя
+http://win.cdn.bonus-tv.ru/TVB8/radostmoya/playlist.m3u8
+#EXTINF:-1,Южный Регион Дон
+http://yugmedia.cdnvideo.ru/yugmedia-live/yugmedia.sdp/playlist.m3u8
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1,Инва Медиа ТВ
+http://hls.invatv.cdnvideo.ru/invatv-publish/invatv.sdp/playlist.m3u8
+#EXTINF:-1,LIFENEWS
+http://bal.bonus-tv.ru/btv/lifenews/type/user/devname/LG-SmartTV/devid/LG-1433367804/eol/20200101T000000/hash/963ba2b65d79e4bd01c0ba00930d1b5a09379d09/playlist.m3u8
+#EXTINF:-1,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1,A-One
+http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8
+#EXTINF:-1,Девятая волна
+http://win.cdn.bonus-tv.ru/TVB7/9volna/index.m3u8
+#EXTINF:-1,8 Канал - Красноярский край
+http://80.65.18.213/playlist_bonus_tv_region.m3u8
+#EXTINF:-1,Первый интернет канал
+http://phone.pik-tv.com/live/piktv2pik2tv/playlist.m3u8
+#EXTINF:-1,Россия 1
+http://bal.bonus-tv.ru/btv/russia1/type/user/devname/LG-SmartTV/devid/LG-1428492206/eol/20200101T000000/hash/f76ed72038a9af7f7284e32cb467460ccbdce956/playlist.m3u8
+#EXTINF:-1,Россия 2
+http://bal.bonus-tv.ru/btv/russia2/type/user/devname/LG-SmartTV/devid/LG-1428491445/eol/20200101T000000/hash/3530e239ac14c304aa24e03dc7f5405dc35b4ba8/playlist.m3u8
+#EXTINF:-1,НТВ
+http://win.cdn.bonus-tv.ru/TVB7/ntv/playlist.m3u8
+#EXTINF:-1,5 канал
+http://win.cdn.bonus-tv.ru/TVB7/5channel/playlist.m3u8
+#EXTINF:-1,Россия Культура
+http://win.cdn.bonus-tv.ru/TVB7/russiak/playlist.m3u8
+#EXTINF:-1,Россия 24
+http://win.cdn.bonus-tv.ru/TVB7/russia24/playlist.m3u8
+#EXTINF:-1,Карусель
+http://win.cdn.bonus-tv.ru/TVB7/carousel/playlist.m3u8
+#EXTINF:-1,TiJi
+http://win.cdn.bonus-tv.ru/TVB7/tiji/playlist.m3u8
+#EXTINF:-1,Gulli
+http://win.cdn.bonus-tv.ru/TVB7/gulli/playlist.m3u8
+#EXTINF:-1,Детский
+http://win.cdn.bonus-tv.ru/TVB7/detsky/playlist.m3u8
+#EXTINF:-1,Иллюзион +
+http://win.cdn.bonus-tv.ru/TVB7/illuzionplus/playlist.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://win.cdn.bonus-tv.ru/TVB7/illuzionrus/playlist.m3u8
+#EXTINF:-1,Еврокино
+http://win.cdn.bonus-tv.ru/TVB7/eurokino/playlist.m3u8
+#EXTINF:-1,Феникс Плюс Кино
+http://win.cdn.bonus-tv.ru/TVB7/fenixikino/playlist.m3u8
+#EXTINF:-1,Оружие
+http://win.cdn.bonus-tv.ru/TVB7/orujie/playlist.m3u8
+#EXTINF:-1,Zooпарк
+http://win.cdn.bonus-tv.ru/TVB7/zoopark/playlist.m3u8
+#EXTINF:-1,Русский Экстрим
+http://win.cdn.bonus-tv.ru/TVB8/russkiyextrim/playlist.m3u8
+#EXTINF:-1,Футбол
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
